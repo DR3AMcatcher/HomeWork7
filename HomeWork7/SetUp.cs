@@ -29,6 +29,8 @@ namespace HomeWork7
         {
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
+            var chromeOptions = new ChromeOptions();
+            chromeOptions.AddArguments("--headless");
         }
 
         [OneTimeTearDown]

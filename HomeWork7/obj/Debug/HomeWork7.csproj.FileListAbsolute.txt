@@ -9,7 +9,6 @@ C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\bin\
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\bin\Debug\nunit.framework.pdb
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\bin\Debug\nunit.framework.xml
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\bin\Debug\WebDriver.xml
-C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.CopyComplete
 C:\Users\Admin\Desktop\work\Automation Course\Lecture 7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.dll
