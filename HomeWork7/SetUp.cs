@@ -27,10 +27,10 @@ namespace HomeWork7
         [OneTimeSetUp]
         public void InitializeDriver()
         {
-            driver = new ChromeDriver();
-            driver.Manage().Window.Maximize();
             var chromeOptions = new ChromeOptions();
             chromeOptions.AddArguments("--headless");
+            driver = new ChromeDriver(chromeOptions);
+            driver.Manage().Window.Maximize();
         }
 
         [OneTimeTearDown]
